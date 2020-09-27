@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "handsfreespace",
+  "private_key_id": "c5370c6e4e3a4e21823f83da4c2441a2ba360ac0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCdfdQtim2mwl2Y\nAjdZ4KH5YvXSAMATqqrzSYuQtCl4VmNwu9mb0AyQ2parGsaFWghL2y9VX39OVYmc\nSWRcGsJnxZ+5fC1WeCnL+reL/qZ+i2DkXxSWlkFvUmpb9+ycyJFJ43QEbxGtd5bm\nwaQAxLCzStDZa+I81Yr87RJAyKJ3PHxUU4XQGJ+r1qXWBCLcmBVrkC8W7Fht7k39\nk4qaMqCxkUtAeDqLRp6XzWqiWOt55viDYNBLnc+wuvrAiZ2W8UnI1RhS9S9PImd8\noH8JaaMJDKcspv2zzUSmXqsj0ihhsBmdpbTwNfv1hgE5WpXql714jKelSd6Ag/fX\nb/+W4575AgMBAAECggEACmo9090przN/WQQcgPcX/xQKSZ7/FM3ejEQ61JD1hR3B\nab0igOlbS2EJQbt9kWgI0GtoT+8Gzjld5lX8KxMh9BbfnzaVEPjVWsXzyXBHtmql\nN7UJ+YNqRGBg5EAbB6tD4G0ISRrHQn98HTqFC//154V1FkvKJFfC30MWR+58wAHH\nURwwz6rqE9imrKoWhWWQlqIKQc6bKO7ettwgr9WSsjQy08dqWQLt+LdMcCod2lSj\naJAszz5Jpe7SLCJtbLkK3bO0MkMmZslzcRi/VjxoG2rwCFk8aEIi9UZg7ADY8gtU\n1bOu6kRtVwfqElF9BLumsv94tmBARY6GJaR9wHS02QKBgQDc/OSy5b8tyOqIj17a\nriWeZ+XgvJkmrQMmfe6E3Kyl1KYpqK6hTWwewVDRip+Hn/19HS7gmdt4wO+fcdgx\nB5Vnat9F/GJYZ5EdLXWG2iluMuuIXx3r5JTGfTO4QmBXynUfXaeg8AZfh+UcDHIQ\nWudwVBUh1dboD54QK9K5mUY1RwKBgQC2cZHqMk9rG5WbuLg7Vcf++g8kL/s+ihoT\nMfrQ0VrUPusSABZC2/Y0BAMWHKcyNTOvx8y7KInvrE+pky0jXbbffODMq28BUal+\nnGra8m0T4xAF6xzQCapsAK+4vD7XoE97MW5jgkrOMgOXbawxjcJKn43eERNaRumz\n6sd7zfqpvwKBgApnCSj2saopFAk7nn5yxiiPwX1zw03TxRsxwGGWtbXUrcG2RAop\nx9YmyXQjr2DGAju6fPNrqq4jfuQlisS8E6dbm4kC2WpJ7cXO1wJzEJI0aWvw9kqd\nZvd0+1NIJJrdV+gTE4n64oHqtrk8SL5GWTCrdJc0JrqjyY//UBsWgPyPAoGAQN8b\nGiIveQ9C4C8LWxXCWliB38Ur2e3zHZYs7+kxGb0RisH7KGTcI1y12Dvx+3lNWph5\npKbifRVQ8iQB7cxZxRe7OytN+jMWSI3HtPh0bpjTTrdt9E8riOGpmc9drQA0osJN\n1RY0ESNZgZOeobQdPLmFEUwTDIugd7fonI3+LjMCgYBBLDlwjkOFYMitH7QKnoGy\nR889/cpCIzEi2HQdgxwU5c+c9DmWOT7IF61ODcmdPFyUqrgSOJUNDf8zCb73sVLr\nUPh2PR+k52QYEFVzpuuZ6ux6qV9MGKORVp7+hBFscF54ZA5OyyyGWEvRmdb8HLry\n5+OP4LiJvB0Yh0aO+91mmw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "server-master@handsfreespace.iam.gserviceaccount.com",
+  "client_id": "114844967584650901038",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/server-master%40handsfreespace.iam.gserviceaccount.com"
+}
