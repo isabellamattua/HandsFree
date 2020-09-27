@@ -4,8 +4,8 @@ import requests
 
 
 def passLicensePlate(licensePlate):
-    payload = {'licensePlate':licensePlate}
-    r = requests.get()
+    url = "http://e760bbea3267.ngrok.io/notify/" + licensePlate
+    r = requests.get(url)
 
 
 app = Flask(__name__)
@@ -16,5 +16,6 @@ def home_page():
     return plate
 
 if __name__ == '__main__':
-    app.run(port=80)
     plate = imgVision.run_quickstart()
+    passLicensePlate("EVSROCK")
+    app.run(port=80)
