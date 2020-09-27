@@ -37,7 +37,7 @@ def run_quickstart():
     # Loads the image into memory
     client = vision.ImageAnnotatorClient()
 
-    path = "resources\\9.jpg"
+    path = "resources\\4.jpg"
 
     with io.open(path, 'rb') as image_file:
         content = image_file.read()

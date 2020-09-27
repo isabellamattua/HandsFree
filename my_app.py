@@ -1,5 +1,11 @@
 from flask import Flask
 import imgVision
+import requests
+
+
+def passLicensePlate(licensePlate):
+    payload = {'licensePlate':licensePlate}
+    r = requests.get()
 
 
 app = Flask(__name__)
@@ -11,3 +17,4 @@ def home_page():
 
 if __name__ == '__main__':
     app.run(port=80)
+    plate = imgVision.run_quickstart()
